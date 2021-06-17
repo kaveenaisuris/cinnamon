@@ -1,0 +1,139 @@
+.CinnamonItems
+{
+
+    text-align: center;
+    border: 2px solid #f9ebd9;
+    background-color: #D1B797;
+    width:270px;
+    height:350px;
+    display:block;
+    float:left;
+        margin-right:4px;
+        margin-left:4px;
+        margin-bottom:10px;
+        text-align:center;
+}
+
+.ItemImage
+{
+    width:250px;
+    height:auto;
+}
+
+.Content
+{
+
+    margin-left:15px;
+    margin-right:15px;
+    margin-top:5px;
+    display:table;
+    padding-left: 50px
+}
+
+.ItemName
+{
+    font-family: arial, Helvetica, sans-serif;
+    color: #4f2703;
+    font-size: 15pt;
+    font-weight:bold;
+    display:block;
+    margin-bottom:2px;
+}
+
+.ItemDescription
+{
+    font-family: arial, Helvetica, sans-serif;
+    color: #4f2703;
+    font-size: 12pt;
+    display:block;
+    margin-bottom:2px;
+    text-align:center;
+    margin-left:5px;
+    margin-right:5px;
+}
+
+.ImageBorder
+{
+    border: 1px solid #b99565;
+    float:left;
+    margin-right:2px;
+}
+
+.Images
+{
+    margin-left:18px;
+    margin-bottom:15px;
+    display:table;
+}
+
+.ImageLeft
+{
+    border: 1px solid #b99565;
+    float:left ; 
+    margin-top:5px;
+    margin-right:10px;
+    margin-bottom:10px;
+}
+
+.ImageRight
+{
+    border: 1px solid #b99565;
+    float:right ; 
+    margin-top:5px;
+    margin-left:10px;
+    margin-bottom:10px;
+}
+
+.VissionMission
+{
+    width: 320px;
+    height: 48px;
+    background-image: url('../Images/Aboutus/Vission-Mission.png');
+    background-repeat: no-repeat;
+    font-size: 13pt;
+    font-family: arial, Helvetica, sans-serif;
+    color: #763823;
+    font-weight: bold;
+    text-align: left;
+    text-indent: 120px;
+    display:block;
+    line-height:45px;
+    vertical-align :middle;
+    margin:0px;
+    padding:0px;
+}
+
+.VMDescription
+{
+    margin-top:5px;
+    
+    font-family: arial, Helvetica, sans-serif;
+    font-size: 11pt;
+    font-weight: bold;
+    color: #763823;
+    text-align:center;
+}
+
+.AboutUsLeftSide
+{
+    float:left;
+    width:230px;
+}
+
+.AboutusRightSide
+{
+    float:left;
+     width:675px;
+}
+
+.PropiterName
+{
+    margin-top:5px;
+    display:block;
+    font-family: arial, Helvetica, sans-serif;
+        font-size: 10pt;
+    font-weight: bold;
+    color: #763823;
+    margin-bottom:10px;
+    text-align:center;
+}
